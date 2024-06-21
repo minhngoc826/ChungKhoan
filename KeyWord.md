@@ -1,0 +1,4 @@
+- sideway
+- index
+- kéo trụ
+- phối đỉnh
